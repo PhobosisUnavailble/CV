@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300&family=Baloo+Chettan+2&family=Comfortaa&family=Oswald&family=Overpass&family=Patrick+Hand&family=Raleway&family=Satisfy&family=Short+Stack&family=Source+Sans+Pro&family=Supermercado+One&display=swap');
+
+html {
+    background-color: rgba(190, 188, 190, 0.808);
+    overflow-x: hidden;
+}
+
+.Title {
+    font-family: 'Overpass', sans-serif;
+    font-size: 7.5rem;
+    position: relative;
+    transform: translate(51.5rem, 13.5rem);
+}
+
+.Title2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 5rem;
+    position: relative;
+    transform: translate(49.5rem, 20rem);
+}
+
+.ProgrammingLanguages {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(37.5rem, 65rem);
+}
+
+.ProgrammingLanguages2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.25rem;
+    position: relative;
+    transform: translate(53.5rem, 75rem);
+}
+
+.Contacts {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(55.75rem, 125rem);
+}
+
+.Contacts2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.25rem;
+    position: relative;
+    transform: translate(52.5rem, 135rem);
+}
+
+.Education {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(57.5rem, 175rem);
+}
+
+.Education2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.25rem;
+    position: relative;
+    transform: translate(40rem, 185rem);
+}
+
+.Summary {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(57rem, 225rem);
+}
+
+.Summary2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.25rem;
+    position: relative;
+    transform: translate(43.5rem, 230rem);
+}
+
+.SkillHighlights {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(54rem, 270rem);
+}
+
+.SkillHighlights2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.75rem;
+    position: relative;
+    transform: translate(44.5rem, 280rem);
+}
+
+.BUTTONDOWNLOAD {
+    font-family: 'Overpass', sans-serif;
+    font-size: 3.5rem;
+    position: relative;
+    transform: translate(53rem, 315.5rem);
+}
+
+.BUTTON {
+    width: 22rem;
+    height: 5.5rem;
+    font-family: 'Overpass', sans-serif;
+    font-size: 2.5rem;
+    position: relative;
+    background-color: rgb(228, 212, 168);
+    border: 0.25rem solid black;
+    border-radius: 12rem;
+    color: rgb(0, 0, 0);
+    transform: translate(54rem, 325.5rem);
+}
+
+.BUTTON:hover {
+    background-color: rgba(206, 188, 139, 0.698);
+    color: rgba(0, 0, 0, 0.637);
+}
+
+.BUTTON:active {
+    background-color: rgba(255, 243, 209, 0.698);
+    color: rgba(161, 161, 161, 0.637);
+}
